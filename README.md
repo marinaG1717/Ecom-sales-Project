@@ -143,3 +143,6 @@ By continuously monitoring these metrics, the business can boost long-term custo
 │   └── Dashboard Cohort Trends in E-commerce Sales Data 2025-07-09 14_46.pdf
 ├── source/
 │   └── ecom_orders.csv
+├── Presentations and Reports/
+│   └── Slides for Presentation.pdf
+│   └── Customer Retention Cohort Analysis Report.pdf
