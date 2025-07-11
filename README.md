@@ -130,7 +130,7 @@ By continuously monitoring these metrics, the business can boost long-term custo
 
 ---
 
-## 📎 Folder Structure  make new!!!!!
+## 📎 Folder Structure 
 
 ```bash
 ├── README.md
