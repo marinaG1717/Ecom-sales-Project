@@ -135,10 +135,11 @@ By continuously monitoring these metrics, the business can boost long-term custo
 ```bash
 ├── README.md
 ├── notebooks/
-│   ├── 01_ingestion.sql
-│   ├── 02_transformation.sql
-│   ├── 03_visualizations.sql
+│   ├──  Create cohort_analysis table from ecom_orders.sql
+│   ├── Visualization 1_ Retention Rate by Cohort.sql
+│   ├── Visualization 2_ Repeat Purchase Rate by Cohort.sql
+│   ├── Visualization 3_ Cohort Size by Month.sql
 ├── dashboards/
 │   └── cohort_retention_dashboard.png
-├── docs/
-│   └── cohort_analysis_report.pdf
+├── source/
+│   └── ecom_orders.csv
