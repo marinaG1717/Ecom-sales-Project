@@ -135,11 +135,11 @@ By continuously monitoring these metrics, the business can boost long-term custo
 ```bash
 ├── README.md
 ├── notebooks/
-│   ├──  Create cohort_analysis table from ecom_orders.sql
+│   ├── Create cohort_analysis table from ecom_orders.sql
 │   ├── Visualization 1_ Retention Rate by Cohort.sql
 │   ├── Visualization 2_ Repeat Purchase Rate by Cohort.sql
 │   ├── Visualization 3_ Cohort Size by Month.sql
 ├── dashboards/
-│   └── cohort_retention_dashboard.png
+│   └── Dashboard Cohort Trends in E-commerce Sales Data 2025-07-09 14_46.pdf
 ├── source/
 │   └── ecom_orders.csv
